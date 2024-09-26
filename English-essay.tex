@@ -1,0 +1,67 @@
+% !Mode:: "TeX:UTF-8"
+% !TEX program  = xelatex
+\documentclass[withoutpreface,bwprint]{cumcmthesis} 
+\input{Misc/preamble.tex}
+%以上为格式规定与包的引用，勿动。以下为正文内容，从标题开始
+
+%标题
+\title{Title}
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+
+\renewcommand{\headrulewidth}{0pt} % 不显示页眉线
+\renewcommand{\footrulewidth}{0pt} % 不显示页脚线\left( 
+\begin{document}
+ \maketitle
+%英文摘要
+\renewcommand{\abstractname}{Abstract}
+\renewcommand{\keywords}{\textbf{Keywords：}}
+\begin{abstract}
+\begin{spacing}{1.6}
+
+%英文摘要内容
+\end{spacing}
+\noindent\keywords{Frequency Selective Surface\quad Polarization Insensitivity\quad Three-layer Composite Structure}
+\end{abstract}
+
+%目录（前三行为目录格式调整）
+%\cftsetindents{section}{0em}{2em}
+%\cftsetindents{subsection}{2em}{3em}
+%\cftsetindents{subsubsection}{4em}{4em}
+\newpage
+\tableofcontents
+\newpage
+
+%以下部分为正文内容
+\input{1.Introduction/introduction.tex}
+%theory
+\input{2.Mathematical_model/mathematical_model.tex} 
+% method
+\input{3.Discussion/discussion.tex}
+%result
+\input{4.Results/results.tex}
+%analyse
+\input{5.Conclusion/conclusion.tex}
+%Conclusion
+
+%参考文献
+\newpage
+\begin{thebibliography}{99}
+%\bibitem{1} book
+%\bibitem{2} \url{WEBSITE}
+\end{thebibliography}
+
+%附录
+% Appendix
+%\appendix
+%\pagenumbering{roman}
+%\input{6.Appendix/appendix_A.tex}
+%\input{6.Appendix/appendix_B.tex}
+%\input{6.Appendix/appendix_C.tex}
+
+%Example部分用于存放各种样例
+\newpage
+\input{Example/example.tex}
+
+\end{document} 
