@@ -27,7 +27,7 @@
 前往[REVTEX](https://journals.aps.org/revtex)下载页面。
 
 ### REVTeX 4的APS模板使用教程
-下载好安装包以后，进入到doc/latex/revtex/sample这个文件夹中，用TeXStudio打开里面的apstemplate.tex文件，这就是模板文件，写论文的话直接复制一下这个文件即可。
+下载好安装包以后，进入到`doc/latex/revtex/sample/aapm/aapmsamp.tex`这个文件夹中，用TeXStudio打开里面的apstemplate.tex文件，这就是模板文件，写论文的话直接复制一下这个文件即可。
 
 而教程则是apssamp.tex文件，对应的生成结果为apssamp.pdf文件。里面包含了各种作者、标注的方法与示例，单栏图表与双栏图表的例子，单栏公式与双栏公式的例子等，基本上在写论文中的所有操作技巧与难点都在这里举有例子。
 下面我们将选取几个比较常见的、普通的例子。
