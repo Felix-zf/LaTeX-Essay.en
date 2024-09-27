@@ -18,6 +18,7 @@
 - 广东工业学位论文 LaTeX 模板：https://github.com/sikouhjw/gdutthesis
 - MixTex中英文公式表格 OCR: https://github.com/RQLuo/mixtex-latex-ocr?tab=readme-ov-file
 - IEEE template-selector: https://template-selector.ieee.org/secure/templateSelector/publicationType
+- Information for Authors: 
 - 《数学杂志》(Journal of Mathematics) LaTeX 模板：https://github.com/xkwxdyy/J_Jmath
 
 *LaTex辅助工具*
