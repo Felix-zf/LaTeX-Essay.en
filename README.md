@@ -17,7 +17,12 @@
 - 深圳大学学位论文 LaTeX 模板：https://github.com/jonzhaocn/szu-thesis-master
 - 广东工业学位论文 LaTeX 模板：https://github.com/sikouhjw/gdutthesis
 - MixTex中英文公式表格 OCR: https://github.com/RQLuo/mixtex-latex-ocr?tab=readme-ov-file
+- IEEE template-selector: https://template-selector.ieee.org/secure/templateSelector/publicationType
 - 《数学杂志》(Journal of Mathematics) LaTeX 模板：https://github.com/xkwxdyy/J_Jmath
+
+*LaTex辅助工具*
+- 在线latex公式编辑器：https://www.latexlive.com
+- 在线latex表格编辑器：https://tablesgenerator.com/latex_tables
 
 ### PRB期刊的LaTeX模板
 - 我们首先用百度进入PRB官网，如下图所示，进入蓝框选中的【Authors】界面，会进入到【Information for Authors】界面，这个界面就是为作者服务，里面会有很多投稿须知之类的内容。
