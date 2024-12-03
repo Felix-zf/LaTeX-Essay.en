@@ -14,12 +14,15 @@
 - 华中科大学位论文 LaTeX 模板：https://github.com/XinzeZhang/HUST-PhD-Thesis-Latex
 - 中山大学学位论文 LaTeX 模板：https://github.com/SYSU-SCC/sysu-thesis
 - 华南理工学位论文 LaTeX 模板：https://github.com/mengchaoheng/SCUT_thesis
+- 上海师范学位论文 LaTeX 模板：https://github.com/andy123t/shnuthesis
 - 深圳大学学位论文 LaTeX 模板：https://github.com/jonzhaocn/szu-thesis-master
 - 广东工业学位论文 LaTeX 模板：https://github.com/sikouhjw/gdutthesis
+- 2024研究生数学建模 LaTeX 模板：https://github.com/andy123t/GMCMthesis
+- 《数学杂志》(Journal of Mathematics) LaTeX 模板：https://github.com/xkwxdyy/J_Jmath
 - MixTex中英文公式表格 OCR: https://github.com/RQLuo/mixtex-latex-ocr?tab=readme-ov-file
 - IEEE template-selector: https://template-selector.ieee.org/secure/templateSelector/publicationType
 - Information for Authors Revtex: https://journals.aps.org/revtex
-- 《数学杂志》(Journal of Mathematics) LaTeX 模板：https://github.com/xkwxdyy/J_Jmath
+
 
 *LaTex辅助工具*
 - 在线latex公式编辑器：https://www.latexlive.com
